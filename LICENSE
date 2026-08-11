@@ -1,0 +1,79 @@
+Breeze Booth Tonematic Pro Firmware License
+Version 1.0, 2026
+
+Copyright (c) 2024-2026 We Fly Kites Pty Ltd (trading as Breeze Systems,
+www.breezesys.com). All rights reserved.
+
+This software is source-available, not open source. It is published so that
+owners and operators of Tonematic Pro handsets can read, audit, build and
+install the firmware their hardware runs.
+
+
+1. GRANT
+
+Subject to the conditions below, We Fly Kites Pty Ltd grants you a worldwide,
+royalty-free, non-exclusive, non-transferable licence to:
+
+  (a) use, copy and install this software, in original or modified form, on
+      Tonematic Pro handsets you own or operate;
+
+  (b) modify this software for that purpose; and
+
+  (c) copy and redistribute this software, in original or modified form,
+      provided you comply with sections 2 and 3.
+
+
+2. CONDITIONS
+
+  (a) You must retain this licence text, the copyright notice above, and any
+      notices of modification, in all copies you distribute.
+
+  (b) If you distribute a modified version, you must state clearly that it has
+      been modified and that it is not the official firmware.
+
+  (c) You may not use the names "Breeze", "Breeze Systems", "Breeze Booth",
+      "Tonematic", "We Fly Kites", or any confusingly similar mark, to name,
+      promote or endorse a modified version, or in any way that suggests We Fly
+      Kites Pty Ltd published or approved it. This licence grants no trademark
+      rights.
+
+  (d) You may not sell this software, or any derivative of it, as a standalone
+      product, nor distribute it as firmware for hardware that is not a
+      Tonematic Pro handset, without prior written permission from We Fly Kites
+      Pty Ltd. Installing it on handsets supplied with, or sold alongside, a
+      photobooth is expressly permitted.
+
+
+3. NO WARRANTY AND NO LIABILITY
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THIS SOFTWARE OR THE USE OR OTHER DEALINGS IN THIS SOFTWARE.
+
+This software writes to the persistent storage of a hardware device and can
+render that device inoperable until it is physically recovered. You install it,
+and any modified version of it, at your own risk.
+
+Nothing in this licence excludes, restricts or modifies any guarantee, right or
+remedy you may have under the Australian Consumer Law or other law that cannot
+lawfully be excluded.
+
+
+4. SUPPORT
+
+Support is provided for unmodified official releases only, to customers of We
+Fly Kites Pty Ltd, and is not a term of this licence.
+
+
+5. TERMINATION
+
+This licence terminates automatically if you breach any of its conditions. It
+is reinstated if you cure the breach within 30 days of becoming aware of it.
+
+
+6. GOVERNING LAW
+
+This licence is governed by the laws of New South Wales, Australia.
